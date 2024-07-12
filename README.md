@@ -2,7 +2,7 @@
 👀 I’m interested in software development, web technologies, and data science.
 🌱 I’m currently learning advanced algorithms, machine learning, and cloud computing.
 💞️ I’m looking to collaborate on open-source projects, innovative software solutions, and research in IT.
-📫 How to reach me: [your email or LinkedIn profile]
+📫 How to reach me:gamithgd@outlook.com
 😄 Pronouns: He/Him
 ⚡ Fun fact: I love solving puzzles and exploring new tech gadgets in my free time!
 <!---
