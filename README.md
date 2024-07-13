@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gamith-jayasingha&label=Profile%20views&color=0e75b6&style=flat" alt="gamith-jayasingha" /> </p>
 
-<p align="left"> <a href="https://twitter.com/@gamith" target="blank"><img src="https://img.shields.io/twitter/follow/@gamith?logo=twitter&style=for-the-badge" alt="@gamith" /></a> </p>
+<p align="left"> <a href="https://twitter.com/gamith" target="blank"><img src="https://img.shields.io/twitter/follow/gamith?logo=twitter&style=for-the-badge" alt="gamith" /></a> </p>
 
 - 🔭 I’m currently working on **University project**
 
@@ -17,7 +17,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/@gamith" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@gamith" height="30" width="40" /></a>
+<a href="https://twitter.com/gamith" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="gamith" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/gamith jayasingha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gamith jayasingha" height="30" width="40" /></a>
 <a href="https://instagram.com/gamith__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gamith__" height="30" width="40" /></a>
 </p>
