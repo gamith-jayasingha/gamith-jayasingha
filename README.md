@@ -7,10 +7,6 @@
 
 - 🔭 I’m currently working on **University project**
 
-- 🌱 I’m currently learning **advanced algorithms, machine learning, and cloud computing.**
-
-- 👯 I’m looking to collaborate on **open-source projects, innovative software solutions, and research in IT.**
-
 - 📫 How to reach me **gamithgd@outlook.com**
 
 - ⚡ Fun fact **I love solving puzzles and exploring new tech gadgets in my free time!**
