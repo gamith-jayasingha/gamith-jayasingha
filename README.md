@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gamith Jayasingha</h1>
-<h3 align="center">Passionate about technology and software development. 🔧 I enjoy working on various IT projects</h3>
+<h3 align="center">Passionate about technology  🔧 I enjoy working on various IT projects</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gamith-jayasingha&label=Profile%20views&color=0e75b6&style=flat" alt="gamith-jayasingha" /> </p>
 
